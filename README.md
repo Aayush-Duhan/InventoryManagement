@@ -20,12 +20,11 @@
 ## Preview
 - Video Demonstration
 
-https://github.com/user-attachments/assets/c2bb0c2c-648e-4ba7-aeea-0b1df1daeb9a
+https://github.com/user-attachments/assets/5953aed3-746d-4d68-8643-8017660937fe
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellouditt/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hellouditt)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-duhan-245167253/)
 
 
                        
